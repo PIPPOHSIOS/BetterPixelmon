@@ -1,0 +1,43 @@
+// items
+item.fly_ring.name=Anello del Volo
+item.god_ring.name=Anello di Dio
+item.pheal_permission.name=Permesso Comando PHeal
+item.bpc_permission.name=Permesso Comando BPC
+item.pixelmon_boss_spawn_egg.name=Uovo di Boss Pixelmon
+item.poke_loot.name=PokeLoot
+item.ultra_loot.name=UltraLoot
+item.master_loot.name=MasterLoot
+item.beast_loot.name=BeastLoot
+
+// commands usages
+commands.pheal.usage=/pheal
+betterpixelmon.commands.pheal.notexecutable=Non puoi eseguire questo comando
+commands.bpc.usage=/bpc
+betterpixelmon.commands.bpc.notexecutable=Non puoi eseguire questo comando
+commands.bivs.usage=/bivs <slot>
+commands.bevs.usage=/bevs <slot>
+commands.beggsteps.usage=/beggsteps <slot>
+
+// help command
+commands.bphelp.usage=Per sapere qualcosa in più riguardo ad un comando della BetterPixelmon scrivi: /bphelp <command> - Lista dei comandi: /beggsteps; /bevs; /bivs; /bpc; /bphelp; /cs; /csl; /pheal
+commands.bphelp.toomanyarguments=Sono stati digitati troppi argomenti!
+commands.bphelp.wrongarguments=Questo comando della BetterPixelmon non esiste!
+
+commands.bphelp.beggsteps=Utilizzo: /beggsteps <slot> - Mostra i passi mancanti che servono a far schiudere l'uovo specificato.
+commands.bphelp.bevs=Utilizzo:/bevs <slot> - Mostra le statistiche evs del pokemon specificato.
+commands.bphelp.bivs=Utilizzo:/bivs <slot> - Mostra le statistiche ivs del pokemon specificato.
+commands.bphelp.bpc=Utilizzo:/bpc - Mostra il menu del pc.
+commands.bphelp.bhelp=- Mostra la lista dei comandi della BetterPixelmon, o come un comando funziona.
+commands.bphelp.cs=Utilizzo:/cs - Mostra i possibili spawn di pokemon nel bioma in cui ti trovi.
+commands.bphelp.csl=/csl - Mostra i possibili spawn di pokemon leggendari nel bioma in cui ti trovi.
+commands.bphelp.pheal=Utilizzo: /pheal - Cura tutti i pokemon del tuo party.
+
+// gui
+gui.selectionscreen.title=Scegli un Comando
+gui.commandexecutor.title=Digita un comando
+
+// keybindings
+keybindings.keyopenmenu.desc=Apri il Menu di Selezione Comando
+
+// tab
+itemGroup.better_pixelmon_tab=Better Pixelmon

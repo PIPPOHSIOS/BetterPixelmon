@@ -1,0 +1,43 @@
+// items
+item.fly_ring.name=Ring of Flight
+item.god_ring.name=God's Ring
+item.pheal_permission.name=PHeal Command Permission
+item.bpc_permission.name=BPC Command Permission
+item.pixelmon_boss_spawn_egg.name=Pixelmon Boss Spawn Egg
+item.poke_loot.name=PokeLoot
+item.ultra_loot.name=UltraLoot
+item.master_loot.name=MasterLoot
+item.beast_loot.name=BeastLoot
+
+// commands
+commands.pheal.usage=/pheal
+betterpixelmon.commands.pheal.notexecutable=You can't execute this command
+commands.bpc.usage=/bpc
+betterpixelmon.commands.bpc.notexecutable=You can't execute this command
+commands.bivs.usage=/bivs <slot>
+commands.bevs.usage=/bevs <slot>
+commands.beggsteps.usage=/beggsteps <slot>
+
+// help command
+commands.bphelp.usage=To know more about a BetterPixelmon command type: /bphelp <command> - Command list: /beggsteps; /bevs; /bivs; /bpc; /bphelp; /cs; /csl; /pheal
+commands.bphelp.toomanyarguments=Too many arguments were given!
+commands.bphelp.wrongarguments=This BetterPixelmon command doesn't exist!
+
+commands.bphelp.beggsteps=Usage: /beggsteps <slot> - Shows the missing steps for the specified egg to hatch.
+commands.bphelp.bevs=Usage: /bevs <slot> - Shows the evs stats of the specified pokemon.
+commands.bphelp.bivs=Usage: /bivs <slot> - Shows the ivs stats of the specified pokemon.
+commands.bphelp.bpc=Usage: /bpc - Show the pc menu.
+commands.bphelp.bhelp=- Show the BetterPixelmon command list or how a BetterPixelmon command works.
+commands.bphelp.cs=Usage: /cs - Show the possible pokemon spawns in the biome you are currently in.
+commands.bphelp.csl=/csl - Show the possible legendary pokemon spawns in the biome you are currently in.
+commands.bphelp.pheal=Usage: /pheal - Heals all the pokemons of your party.
+
+// gui
+gui.selectionscreen.title=Choose a Command
+gui.commandexecutor.title=Type in a command
+
+// keybindings
+keybindings.keyopenmenu.desc=Open the Command Selection Screen Menu
+
+// creative tab
+itemGroup.better_pixelmon_tab=Better Pixelmon
